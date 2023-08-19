@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "hUjRSM51d1xD4fjyFckkA5g9SC42HARl1sLreWhfW4g=",
+  "Source": "PROJETOPETSENAI",
+  "BasePath": "_content/PROJETOPETSENAI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PROJETOPETSENAI\\wwwroot",
+      "Source": "PROJETOPETSENAI",
+      "ContentRoot": "C:\\Users\\vanil\\OneDrive\\Área de Trabalho\\PROJETOS\\PROJETOPETSENAI\\wwwroot\\",
+      "BasePath": "_content/PROJETOPETSENAI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\vanil\\OneDrive\\Área de Trabalho\\PROJETOS\\PROJETOPETSENAI\\wwwroot\\index.html",
+      "SourceId": "PROJETOPETSENAI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vanil\\OneDrive\\Área de Trabalho\\PROJETOS\\PROJETOPETSENAI\\wwwroot\\",
+      "BasePath": "_content/PROJETOPETSENAI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
